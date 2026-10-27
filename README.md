@@ -256,9 +256,6 @@ For hackathon demonstrations, simulated government responses and sample complain
 - Explore authorised reward payments and broader government integrations.
 - Measure verification accuracy, false reports, response rates, and time to resolution.
 
-## Project Repository
-
-GitHub: https://github.com/aryandhamanii/ResolveProof
 
 ## Conclusion
 
